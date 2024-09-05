@@ -1,0 +1,30 @@
+"CEEI Buildings Data 2007 – 2020
+This spreadsheet contains community energy and GHG emissions data that replaces the previously produced provincial Community Energy & Emissions Inventory (CEEI). Data sources and methodologies are detailed in the previous CEEI Technical Methods and Guidance Document 2007 – 2012. This document and other supporting information may be found at https://www2.gov.bc.ca/gov/content/environment/climate-change/data/ceei.
+
+The following notes are supplementary to information in the CEEI Technical Methods and Guidance Document 2007 – 2012 and explain some variations in the data and methodological changes that have occurred since 2012.
+
+1. For the major utilities (BC Hydro, Fortis BC Gas and Electric, Pacific Northern Gas) data is provided for the years 2007, 2010, 2012-2020. For the other utilities and wood/oil/propane estimates, no data is available for 2013. 
+2. Fortis BC has changed their data collection system and the manner in which data is provided to CEEI. The new data (from 2012 - 2020) is considered to be less accurate than the previous data in its allocation of accounts and energy consumption to each municipality. Therefore, the residential data has been adjusted to align with the older data. This was done by applying consumption per capita from the old data to the appropriate municipal population, and then adjusting so the total consumption of each regional district matched the new data. CSMI (Commercial & Small-Medium Industrial) data was not adjusted.
+3. Pacific Northern Gas, Fortis BC Gas and Fortis Electric data from 2007 to 2020 includes large industrial customers within CSMI.
+4. For a number of small utilities, some data was missing and has been pro-rated based on previous years:
+a. Calgas – Split of Residential/CSMI accounts for 2015, 2016. Data has not been acquired from Calgas which is now called Superior since 2016.
+b. Nelson Hydro -  Split of Residential/CSMI accounts for 2015, 2016, 2017, 2018, 2019, 2020.
+c. Nelson Hydro -  Split of Residential/CSMI and City/Rural consumption for 2015, 2016, 2017, 2018, 2019, 2020. 
+d. Stargas – Split of Residential/CSMI accounts for 2015.                                                                                                                                                                                                            e. Corix - Data has not been acquired since 2017.                                                                                                                                                                                                                         5. Princeton Power & Light was sold to Fortis BC in 2005. Consumption after 2007 is included within Fortis BC Electric data.
+6. The City of Kelowna electrical utility was sold to Fortis BC in 2013. Consumption after 2012 is included within Fortis BC Electric data.                                   
+7. A new emissions column has been added entitled emissions with imports. This column represents emissions scenarios based on the methodology prescribed under the Greenhouse Gas Industrial Reporting and Control Act - https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/reporting/quantify/electricity
+8. Wood/Oil/Propane data was only calculated for 2007. Future years have only been adjusted for weather. These estimates (including 2007) should be considered approximate and used with caution.                                                                                                                                                                                                                 
+9. Statistics data for per capita normalization was acquired from https://www2.gov.bc.ca/gov/content/data/statistics/people-population-community/population/population-estimates 
+10. All analysis, inferences, opinions, and conclusions drawn in this data are those of the Climate Action Secretariat, and do not reflect the opinions, position or policies of utilities. Numbers provided by the Climate Action Secretariat may not align with raw data extracts from utilities due to measures taken to adjust data to align within municipal boundaries.
+",Unnamed: 1,Acronyms
+,,"CEEI – Community Energy and Emissions Inventory
+PPRO – Piped Propane
+DPRO – Delivered Propane 
+Res – Residential
+CSMI – Commercial & Small-Medium Industrial
+FBC  – FortisBC
+PNG  – Pacific Northern Gas
+ELEC – Electric
+NG – Natural Gas
+GJ – Gigajoule
+kWh – Kilowatt Hour"
